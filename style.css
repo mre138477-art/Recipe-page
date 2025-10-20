@@ -45,6 +45,7 @@ padding: 10px;
 margin-top: 15px;
 border: none;
 margin-bottom: 10px;
+    border-radius:5px;
 }
 #section-header p{
     color: var(--Rose800);
@@ -111,4 +112,5 @@ padding-bottom: 0;
     font-size: 12px;
         color: var(--Brown800);
         font-weight: bold;
+
 }
